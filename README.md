@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lukaspaic
-- 👀 I’m interested in web development and programming in general
+# 👋 Hi, I am Luka Spaic
+## 👀 I am interested in web development and programming in general
 
 <!---
 lukaspaic/lukaspaic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
