@@ -1,5 +1,5 @@
 ## 👋 Hi, I am Luka Spaic
-**👀 I am interested in web development and programming in general**
+👀 I am interested in web development and programming in general
 
 ## Languages and Tools
 
