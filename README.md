@@ -7,7 +7,7 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Next" width="30px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
+<img align="left" alt="Next" width="30px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
 <img align="left" alt="GraphQL" width="30px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <img align="left" alt="Tailwind" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
