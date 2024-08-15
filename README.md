@@ -1,8 +1,8 @@
 ## 👋 Hello!
 
-### 💻 Front-end developer interested in technologies and programming in general.
+💻 Front-end developer interested in technologies and programming in general.
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
