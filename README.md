@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-💻 Front-end developer interested in technologies and programming in general.
+## 💻 Front-end developer interested in technologies and programming in general.
 
 ## Languages and Tools
 
