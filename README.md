@@ -12,6 +12,7 @@
 <img align="left" alt="GraphQL" width="30px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <img align="left" alt="Tailwind" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+<img align="left" alt="Chakra UI" width="30px" src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" />
 <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
